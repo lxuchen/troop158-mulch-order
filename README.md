@@ -52,7 +52,7 @@ To isolate dependencies, use a **Python virtual environment**.
 4. **Run the Script**
    Once configured, run:
    ```bash
-   python read_orders.py
+   python read.py
    ```
    This will  
    ✅ Connect to Gmail  
